@@ -29,6 +29,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 TcFooter = __decorate([
                     core_1.Component({
                         selector: 'tc-footer',
+                        styles: ["\n        p {\n            color: #FFFFFF;\n        }\n    "],
                         templateUrl: 'app/components/tcFooter.template.html'
                     }), 
                     __metadata('design:paramtypes', [])

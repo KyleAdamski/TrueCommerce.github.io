@@ -16,8 +16,8 @@ export class TcTile {
     @Input('image-url')
     imageUrl: string;
     
-    @Input('coming-soon')
-    comingSoon: boolean;
+    @Input()
+    disabled: boolean;
     
     @Input('button-action-label')
     buttonActionLabel: string;

@@ -1,3 +1,7 @@
+body {
+    background-color: #20314b;
+}
+
 .hero-spacer {
     margin-top: 50px;
 }
@@ -5,6 +9,10 @@
 .hero-feature {
     margin-bottom: 30px;
 }
+
+    .hero-feature .thumbnail {
+        min-height: 300px;
+    }
 
 footer {
     margin: 50px 0;

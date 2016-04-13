@@ -34,9 +34,9 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                     __metadata('design:type', String)
                 ], TcTile.prototype, "imageUrl", void 0);
                 __decorate([
-                    core_1.Input('coming-soon'), 
+                    core_1.Input(), 
                     __metadata('design:type', Boolean)
-                ], TcTile.prototype, "comingSoon", void 0);
+                ], TcTile.prototype, "disabled", void 0);
                 __decorate([
                     core_1.Input('button-action-label'), 
                     __metadata('design:type', String)

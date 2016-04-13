@@ -28,6 +28,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 TcSectionTitle = __decorate([
                     core_1.Component({
                         selector: 'tc-section-title',
+                        styles: ["\n        h3 {\n            color: #FFFFFF;\n        }\n    "],
                         templateUrl: 'app/components/tcSectionTitle.template.html'
                     }), 
                     __metadata('design:paramtypes', [])
