@@ -30,3 +30,7 @@ img.logo {
 .thumbnail {
     cursor: pointer;
 }
+
+    .thumbnail:hover {
+        background-color: #DDDDDD;
+    }
