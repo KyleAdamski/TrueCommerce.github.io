@@ -42,9 +42,9 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                     __metadata('design:type', String)
                 ], TcTile.prototype, "buttonActionLabel", void 0);
                 __decorate([
-                    core_1.Input('button-action-url'), 
+                    core_1.Input('action-url'), 
                     __metadata('design:type', String)
-                ], TcTile.prototype, "buttonActionUrl", void 0);
+                ], TcTile.prototype, "actionUrl", void 0);
                 __decorate([
                     core_1.Input('button-info-label'), 
                     __metadata('design:type', String)
