@@ -26,3 +26,11 @@ img.logo {
     margin-left: auto;
     margin-right: auto;
 }
+
+.thumbnail {
+    cursor: pointer;
+}
+
+    .thumbnail:hover {
+        background-color: #DDDDDD;
+    }

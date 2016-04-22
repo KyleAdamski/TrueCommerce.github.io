@@ -22,8 +22,8 @@ export class TcTile {
     @Input('button-action-label')
     buttonActionLabel: string;
     
-    @Input('button-action-url')
-    buttonActionUrl: string;
+    @Input('action-url')
+    actionUrl: string;
     
     @Input('button-info-label')
     buttonInfoLabel: string;
