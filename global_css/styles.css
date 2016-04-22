@@ -10,10 +10,6 @@ body {
     margin-bottom: 30px;
 }
 
-    .hero-feature .thumbnail {
-        min-height: 300px;
-    }
-
 footer {
     margin: 50px 0;
 }
@@ -33,4 +29,5 @@ img.logo {
 
     .thumbnail:hover {
         background-color: #DDDDDD;
+        text-decoration: none;
     }
